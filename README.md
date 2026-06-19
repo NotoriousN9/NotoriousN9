@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hi there 👋 I'm Rohit
+
+## About Me
+🎓 BSc Computer Science Student
+
+💻 Learning Java and Data Structures & Algorithms
+
+🎮 Interested in Game Development (Unity)
+
+🚀 Currently building Java projects and improving problem-solving skills
+
+---
+
+## Tech Stack
+
+- Java
+- C
+- Git & GitHub
+- Unity
+- Blender
+
+---
+
+## Current Goals
+
+- Build a strong Java portfolio
+- Learn DSA
+- Create larger OOP projects
+- Contribute regularly on GitHub
+
+---
 
 <!--
-**NotoriousN9/NotoriousN9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+### Java Mini Projects
+- Banking System
+- Quiz Game
+- Dice Roller
+- Rock Paper Scissors
+- Slot Machine
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Upcoming
+- Student Management System
+- Library Management System
+- Expense Tracker
+
+---
 -->
+
+## Connect
+
+GitHub: https://github.com/NotoriousN9
